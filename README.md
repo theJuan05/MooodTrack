@@ -41,4 +41,6 @@ Based on feedback, sentiment explanations and mood categories were added.
 - Hosted on Hostinger
 
 ## Team Members
-- Your Name – Backend & Machine Learning
+- Juan Miguel O. Virina
+- Karl Lenard Cordova Solmoro
+- Drenz Ned Zeff Timothy Solpico
